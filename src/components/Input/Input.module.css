@@ -1,0 +1,36 @@
+.inputWrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.input {
+  padding: 8px 70px 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  width: 220px;
+}
+
+.toggleBtn,
+.clearBtn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  color: #666;
+}
+
+.toggleBtn {
+  right: 8px;
+}
+
+.toggleBtnWithClear {
+  right: 36px;
+}
+
+.clearBtn {
+  right: 8px;
+}
