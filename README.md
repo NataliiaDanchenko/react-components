@@ -94,18 +94,21 @@ yarn storybook
 Open the browser at http://localhost:6006 to see all components.
 
 📂 Folder Structure
-css
+
 src/
 ├── assets/
-│   └── screenshots/
+│ └── screenshots/
 ├── components/
-│   ├── Input/
-│   ├── Toast/
-│   └── SidebarMenu/
+│ ├── Input/
+│ ├── Toast/
+│ └── SidebarMenu/
 ├── stories/
 └── index.ts
+
 ✅ Features Implemented
-Input with password toggle & clearable functionality
+
+- Input with password toggle & clearable functionality
+
 
 Toast notifications with auto-dismiss and manual close
 
