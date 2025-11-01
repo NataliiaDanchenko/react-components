@@ -67,7 +67,7 @@ All components are shown in **Storybook** with visual variations. Screenshots of
 
 **Screenshots:**
 
-![Sidebar Menu Open](src/assets/screenshots/sidebar_menu_open.png)  
+![Sidebar Menu Open](src/assets/screenshots/side_bar_menu_open.png)  
 ![Storybook Sidebar Menu](src/assets/screenshots/storybook_sidebar-menu.png)  
 
 ---
