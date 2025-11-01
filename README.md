@@ -74,23 +74,27 @@ All components are shown in **Storybook** with visual variations. Screenshots of
 
 ## ⚙️ Setup Instructions
 
-1. Clone the repository:
+Clone the repository:
 
 git clone https://github.com/NataliiaDanchenko/react-components.git
-cd react-components
+cd react-component-library
 
 Install dependencies:
+
 npm install
-# or
-yarn install
+or
+yarn 
 
 Run Storybook:
+
 npm run storybook
-# or
+or
 yarn storybook
+
 Open the browser at http://localhost:6006 to see all components.
 
 📂 Folder Structure
+css
 src/
 ├── assets/
 │   └── screenshots/
