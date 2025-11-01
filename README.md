@@ -76,28 +76,21 @@ All components are shown in **Storybook** with visual variations. Screenshots of
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/yourusername/react-component-library.git
-cd react-component-library
-Install dependencies:
+git clone https://github.com/NataliiaDanchenko/react-components.git
+cd react-components
 
-bash
-Копировать код
+Install dependencies:
 npm install
 # or
 yarn install
-Run Storybook:
 
-bash
-Копировать код
+Run Storybook:
 npm run storybook
 # or
 yarn storybook
 Open the browser at http://localhost:6006 to see all components.
 
 📂 Folder Structure
-css
-Копировать код
 src/
 ├── assets/
 │   └── screenshots/
