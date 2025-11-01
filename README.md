@@ -94,7 +94,7 @@ yarn storybook
 Open the browser at http://localhost:6006 to see all components.
 
 📂 Folder Structure
-
+```
 src/
 ├── assets/
 │ └── screenshots/
